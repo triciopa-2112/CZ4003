@@ -1,3 +1,11 @@
+Final Project for Data Mining and Analytics course.
+Using several Machine LEarning apporaches, we determine the elements of and article responsible for its mediatic success.
+Nanyang Technological University, Singapore, 2015
+
+
+Producing and sharing online content has become easier than ever thanks to the countless social platforms out there. But not all content shared becomes equally popular. Research shows that a very small number of items receive the most attention, while most content receives only a few views. So what are the elements that make an item more popular than others? That is the answer we set out to find in this project. Guided by previous research, our team analyzed a dataset obtained from UCI Machine Learning Repository, which consists of articles gathered over a two year period from mashable.com, in order to find elements that can lead to content popularity. We found that the factors with the greatest positive impact are subjectivity, data channel (topic) and whether an article is released on the weekend. From different classification methods used, Decision Trees and Naïve Bayes seem to be the best performing models. These results could potentially help content pro- ducers, such as online news agencies, reach larger audiences by producing content that is more likely to be read and shared by social media users.
+-----------------------------------------
+
 I. Group Details
 Group ID: Gasanova
 Group member names: 
